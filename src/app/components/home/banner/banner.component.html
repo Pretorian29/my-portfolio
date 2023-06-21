@@ -1,0 +1,24 @@
+<section class="section banner">
+    <div [@bannerTrigger] class="container">
+        <div class="section-box-banner">
+            <div class="content">
+                <div>
+                    <!-- <h1>Hola, mi nombre es</h1> -->
+                    <h1>{{"Banner.Pretitle" | translate}}</h1>
+                </div>
+                <div class="banner-title">
+                    <h2>Paola Montoya</h2>
+                    <h3>Full Stack Developer</h3>
+                </div>
+                <div class="banner-description">
+                    <p [innerHTML]="'Banner.Description' | translate" class="mt-4"></p>
+                </div>
+            </div>
+            <div class="div-btn-banner">
+                <a href="mailto:contact@pretorian.dev" target="_black" class="main-btn">
+                    {{"Banner.ActionBtn" | translate}}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

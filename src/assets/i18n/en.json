@@ -1,0 +1,146 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : " CV ",
+    "Header.cvName": "CV_Paola_Montoya_Ingles.pdf",
+
+    "Banner.Pretitle": "Hello! My name is", 
+    "Banner.Description": "I have 3 years as a <span class='underline'>software developer</span>, web pages and applications. I have training as a data scientist. I have a background in science, statistics, physics and business IT. I have the ability to work in groups and individually. I seek to establish ethical, professional and lasting labor and commercial relationships.",
+    "Banner.ActionBtn": "Contact",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "Since I started programming I am constantly learning. I have worked on projects from scratch, creating interfaces, managing data, databases and managing applications in serverless technologies.",
+        "My skills also include testing and debugging, product planning and diagramming. I have experience working for repositories and designing software using MVC (Model-View-Controller).",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "Vegatech",
+            "Title": "CEO - Fullstack Developer",
+            "Date": "November 2022 - Present",
+            "Description": [
+              "Responsible for design, coding, testing and implementation of software applications or systems within the company.",
+              "Responsible for the management of software projects from start to finish, including planning, organizing and coordinating all stages of the software development life cycle, from requirements gathering to final delivery.",
+              "Making important technical decisions, such as the choice of technologies, frameworks and development tools.",
+              "Responsible for strategic planning, goal and objective setting, financial management, staff recruitment, customer service and company promotion.",
+              "Provide technical support to your customers and perform maintenance and software update tasks."
+            ]
+        },
+        {
+            "Tab": "Alacrity",
+            "Title": "Founder - Technical Lead",
+            "Date": "September 2020 - May 2021",
+            "Description": [
+                "I attended a entrepreneurship course to create technology companies. Main duties included being involved in the creation, design and building of software products.",
+                "I was involved in deciding important aspects of a software product, such as what features customers should expect and what they should do.",
+                "I was responsible to contribute within a technical team in a very fast pace project.",
+                "I gained valuable experience about the workflow within a technology company; product development and MVP's implementation."             
+            ]
+        },
+        {
+            "Tab": "Teletech",
+            "Title": "Back Office Technician",
+            "Date": "July 2005 - September 2011",
+            "Description": [
+                "My initial role was as a Telemarketer being promoted within the first year as a back office agent.",
+                "I was responsible for attending and resolving incidents in the billing department.",
+                "I was also assigned to resolve incidents related to the mobile phone service at a technical level for private clients and business clients."                        
+            ]
+        },    
+        {
+            "Tab": "Army",
+            "Title": "NCO - Command Assistant (Iraq)",
+            "Date": "2003 - 2004",
+            "Description": [
+                "Responsible for security and surveillance in the area of operations. Establishing checkpoints, patrolling sensitive areas, identifying and mitigating potential threats, and ensuring the protection and well-being of the unit and local civilians.",
+                "Responsible for leading and training a platoon of 32 elements under my command, making sure that they are prepared to face tactical situations and fulfill the assigned missions.",
+                "As a command assistant, I was in charge of producing maps using satellite software and also maintaining the main command computers, emphasizing information security."             
+            ]
+        } ,       
+        {
+            "Tab": "Army",
+            "Title": "Chief of Staff",
+            "Date": "October 2002 - July 2003",
+            "Description": [
+                "Responsible for managing and supervising the army pay staff.",
+                "In charge of assisting the head of IT to calculate, verify and issue salaries and resolution of technical incidents of the IT team.",
+                "Responsible for ensuring compliance with applicable labor laws and regulations, as well as the confidentiality and security of employees' personal and financial information."
+             ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "Vegatech UK - Web Page",
+            "Description": "Main page of my software development company. It has a <span class='underline'>contact form</span>, <span class='underline'>real-time database management</span> and a newsletter <span class='underline'>subscription</span> system with serverless technology provided by Google.",
+            "imgs": [
+                "assets/images/vegatech/vegatech1.png",
+                "assets/images/vegatech/vegatech2.png",
+                "assets/images/vegatech/vegatech3.png"                
+            ],
+            "demoLink": "https://vegatech.uk",
+            "Technologies": ["Angular", "SASS", "Tailwind", "Google CloudFunctions", "Firebase"]
+        },
+        {
+            "Title": "Latinos Resturant",
+            "Description": "Website of a restaurant. Creation and design of <span class='underline'>image and logo</span>. Integration of <span class='underline'>third-party software</span> to control reservations and online orders, it has a <span class='underline'>contact form</span> and a link to social networks.",
+            "imgs": [
+                "assets/images/latinos/latinos1.png",
+                "assets/images/latinos/latinos2.png",
+                "assets/images/latinos/latinos3.png"
+            ],           
+            "demoLink": "https://latinosaberystwyth.com/",
+            "Technologies": ["Angular", "Tailwind", "SASS", "Google Cloud Functions", "NodeJs"]
+        },
+        {
+            "Title": "Astrolyra",
+            "Description": "Web that integrates an <span class='underline'>AI-based astrology service</span>. Uses NASA JPL ephemeris. Generate <span class='underline'>graphs and PDF reports</span> of the results; connect a function created in Python that generates the user data and generates the results according to the <span class='underline'>algorithm</span> trained with the Astrodatabank database.",
+            "imgs": [
+                "assets/images/astrolyra/astrolyra1.png",
+                "assets/images/astrolyra/astrolyra2.png",
+                "assets/images/astrolyra/astrolyra3.png"
+            ],           
+            "demoLink": "https://astrolyra.com/",
+            "Technologies": ["Angular", "Tailwind", "API", "Python", "Tensorflow", "NodeJs"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Machine Learning",
+            "Description": "Models for NPL competitions on Kaggle.",
+            "ghLink": "https://github.com/Pretorian29/Machine-Learning-Repos",            
+            "Technologies": ["Python", "Tensorflow", "Pandas", "Matplotlib"]
+        },
+        {
+            "Title": "Professional Portfolio",
+            "Description": "Repository of this professional page.",
+            "ghLink": "https://github.com/Pretorian29/pretorian-portfolio",            
+            "Technologies": ["Angular", "CSS", "TypeScript", "Bootstrap"]
+        },
+        {
+            "Title": "Next Project",
+            "Description": "Space for my next project code.",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": ["Angular"]
+        }          
+    ],
+
+    "Contact.Pretitle": "Contact me",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I would be delighted to hear from you if you are interested in discussing new opportunities. Please reach out to me, and I will respond promptly upon receiving your message.",
+    "Contact.Btn": "Send Email"
+
+
+}

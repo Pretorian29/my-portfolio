@@ -1,0 +1,147 @@
+{
+
+    "Header.Item1": "Acerca de mi",
+    "Header.Item2": "Experiencia",
+    "Header.Item3": "Proyectos",
+    "Header.Item4": "Contacto",
+    "Header.cvBtn": " CV ",
+    "Header.cvName": "CV_Paola_Montoya_Espanol.pdf",
+
+    "Banner.Pretitle": "Hola! Mi nombre es",
+    "Banner.Description": "Cuento con tres años de experiencia como desarrolladora de software, páginas web y aplicaciones. Además, poseo una formación en ciencia de datos, lo que me permite abordar proyectos desde una perspectiva analítica. Mis habilidades se extienden a áreas como ciencia, estadística, física y negocios de tecnología de la información. Destaco por mi capacidad para trabajar de manera efectiva tanto en equipos como en proyectos individuales. Mi enfoque se basa en establecer relaciones laborales y comerciales fundamentadas en la ética, la profesionalidad y la durabilidad. Estoy comprometida en brindar soluciones de calidad que satisfagan las necesidades y expectativas de mis clientes.",
+    "Banner.ActionBtn": "Contacto",
+
+    "AboutMe.Title": "Acerca de mi",
+    "AboutMe.Paragraphs": [
+        "Desde que aprendí a programar estoy en constante aprendizaje. He trabajado en proyectos desde cero, creando interfaces, gestionando datos, bases de datos y gestionando aplicaciones en tecnologías serverless.",
+        "Mis habilidades también incluyen la prueba y corrección de errores, la planificación y diagramación de productos. Tengo experiencia colaborando para repositorios y en diseño de software utilizando MVC (Modelo-vista-controlador).",
+        "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
+    ],
+
+
+    "Experience.Title": "Experiencia",
+    "Experience.Jobs": [
+      {
+            "Tab": "Vegatech",
+            "Title": "CEO - Fullstack Developer",
+            "Date": "Noviembre 2022 - Actualidad",
+            "Description": [
+              "Responsable de diseño, la codificación, las pruebas y la implementación de aplicaciones o sistemas de software dentro de la empresa.",
+              "Encargada de la gestión de los proyectos de software de principio a fin, incluyendo planificar, organizar y coordinar todas las etapas del ciclo de vida del desarrollo de software, desde la recopilación de requisitos hasta la entrega final.",
+              "Toma de decisiones técnicas importantes, como la elección de tecnologías, frameworks y herramientas de desarrollo.",
+              "Responsable de la planificación estratégica, el establecimiento de metas y objetivos, la gestión financiera, la contratación de personal, la atención al cliente y la promoción de la empresa.",
+              "Brindar soporte técnico a tus clientes y realizar tareas de mantenimiento y actualización de software."
+            ]
+      },
+      {
+        "Tab": "Alacrity",
+        "Title": "Técnico - Fundadora",
+        "Date": "Septiembre 2020 - Mayo 2021",
+        "Description": [
+          "Asistí a un curso de emprendimiento para crear empresas tecnológicas. Las funciones principales incluyeron estar involucrada en la creación, diseño y construcción de productos de software.",
+          "Participé para decidir aspectos importantes de un producto de software, como qué características deberían esperar los clientes y qué deberían hacer.",
+          "Fui responsable de contribuir dentro de un equipo técnico en un proyecto de ritmo rápido.",
+          "Obtuve una valiosa experiencia sobre el flujo de trabajo dentro de una empresa de tecnología; desarrollo de productos e implementación de MVP's."          
+        ]
+      },
+      {
+        "Tab": "Teletech",
+        "Title": "Técnico de Back Office",
+        "Date": "Julio 2005 - Septiembre 2011",
+        "Description": [
+          "Mi rol inicial fue como Teleoperadora siendo promovida dentro del primer año como agente para el backoffice.",
+          "Fui responsable de atender y resolver las incidencias del departamento de facturación.",
+          "También fui asignada para resolver incidencias relacionadas con el servicio de telefonía móvil a nivel técnico para clientes particulares y cliente de empresa."                  
+        ]
+      },   
+      {
+        "Tab": "Ejercito",
+        "Title": "Sub Oficial - Asistente de Comando (Irak)",
+        "Date": "2003 - 2004",
+        "Description": [
+          "Responsable de la seguridad y la vigilancia en el área de operaciones. Establecimiento de puestos de control, patrullar áreas sensibles, identificar y mitigar posibles amenazas, y garantizar la protección y el bienestar de la unidad y los civiles locales.",
+          "Responsable de liderar y entrenar a un pelotón de 32 elementos bajo mi mando, asegurándome de que estén preparados para enfrentar situaciones tácticas y cumplir con las misiones asignadas.",
+          "Como asistente de comando me encargué de producir mapas mediante un software satelital y también, dar mantenimiento a las computadoras del comando principal, haciendo énfasis en la seguridad de la información."       
+        ]
+      },   
+      {
+        "Tab": "Ejercito",
+        "Title": "Jefe de Personal",
+        "Date": "Octubre 2002 - Julio 2003",
+        "Description": [
+          "Responsable de gestionar y supervisar al personal de la pagaduría del ejército.",
+          "Encargada asistir al jefe de informática de calcular, verificar y emitir los salarios y resolución de incidencias técnicas del equipo informático.",
+          "Responsable de garantizar el cumplimiento de las leyes laborales y regulaciones aplicables, así como la confidencialidad y seguridad de la información personal y financiera de los empleados."
+        ]
+      }
+    ],
+
+    "FeatureProjects.Title": "Mis proyectos",
+    "FeatureProjects.Label": "Proyecto Destacado",
+    "FeatureProjects.Projects": [{
+            "Title": "Pagina Web - Vegatech UK",
+            "Description": "Pagina principal de mi empresa de desarrollo de software. Cuenta con <span class='underline'>formulario de contacto</span>, <span class='underline'>gestión de base de datos en tiempo real</span? y sistema de <span class='underline'>suscripción</span> a newsletter con tecnología sin servidor proveída por google.",
+            "imgs": [
+              "assets/images/vegatech/vegatech1.png",
+              "assets/images/vegatech/vegatech2.png",
+              "assets/images/vegatech/vegatech3.png"  
+            ],
+            "demoLink": "https://vegatech.uk",
+            "Technologies": ["Angular", "SASS", "Tailwind", "Google Cloud Functions", "Firebase"]
+        }, 
+        {
+            "Title": "Latinos Resturant",
+            "Description": "Sitio web de una restaurante. Creación y diseño de <span class='underline'>imagen y logo</span>. Integración de <span class='underline'>software de terceros</span> para control de reservas y pedidos online, cuenta con <span class='underline'>Formulario de contacto</span> y enlace a redes sociales.",
+            "imgs": [
+              "assets/images/latinos/latinos1.png",
+              "assets/images/latinos/latinos2.png",
+              "assets/images/latinos/latinos3.png"
+            ],
+            "demoLink": "https://latinosaberystwyth.com/",
+            "Technologies": ["Angular", "Tailwind", "SASS", "Google Cloud Functions", "NodeJS"]
+        },
+        {
+            "Title": "Astrolyra",
+            "Description": "Web que integra un servicio de <span class='underline'>astrología basado en AI</span>. Utiliza las efemérides de JPL de la NASA. Genera <span class='underline'>gráficos e informes PDF</span> de los resultados; conecta una función creada en Python que genera los datos del usuario y genera los resultados según el <span class='underline'>algoritmo</span> entrenado con la base de datos de Astrodatabank.",
+            "imgs": [
+              "assets/images/astrolyra/astrolyra1.png",
+              "assets/images/astrolyra/astrolyra2.png",
+              "assets/images/astrolyra/astrolyra3.png"
+            ],            
+            "demoLink": "https://astrolyra.com/",
+            "Technologies": ["Angular", "Tailwind", "API", "Python", "Tensorflow", "NodeJS"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "Mas proyectos",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Machine Learning",
+            "Description": "Modelos para competiciones de NPL en Kaggle.",
+            "ghLink": "https://github.com/Pretorian29/Machine-Learning-Repos",            
+            "Technologies": ["Python", "Tensorflow", "Pandas", "Matplotlib"]
+        },
+        {
+          "Title": "Portafolio Profesional",
+          "Description": "Repositorio de esta pagina profesional.",
+          "ghLink": "https://github.com/Pretorian29/pretorian-portfolio",          
+          "Technologies": ["Angular", "CSS", "TypeScript", "Bootstrap"]
+        },
+        {
+          "Title": "Proximo Proyecto",
+          "Description": "Espacio para el código de mi próximo proyecto.",
+          "ghLink": "",
+          "demoLink": "",
+          "Technologies": ["Angular"]
+        }       
+    ],
+
+    "Contact.Pretitle": "Contactame",
+    "Contact.Title": "¡Ponte en Contacto!",
+    "Contact.Content": "Estaré encantada de recibir tu contacto si deseas hablar sobre nuevas oportunidades. Escríbeme y responderé tan pronto como vea tu mensaje.",
+    "Contact.Btn": "Enviar Email"
+
+
+}
