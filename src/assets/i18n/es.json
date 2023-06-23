@@ -8,13 +8,13 @@
     "Header.cvName": "CV_Paola_Montoya_Espanol.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Cuento con tres años de experiencia como desarrolladora de software, páginas web y aplicaciones. Además, poseo una formación en ciencia de datos, lo que me permite abordar proyectos desde una perspectiva analítica. Mis habilidades se extienden a áreas como ciencia, estadística, física y negocios de tecnología de la información. Destaco por mi capacidad para trabajar de manera efectiva tanto en equipos como en proyectos individuales. Mi enfoque se basa en establecer relaciones laborales y comerciales fundamentadas en la ética, la profesionalidad y la durabilidad. Estoy comprometida en brindar soluciones de calidad que satisfagan las necesidades y expectativas de mis clientes.",
+    "Banner.Description": "Cuento con tres años de experiencia como desarrolladora de software, páginas web y aplicaciones. Poseo una formación en ciencia de datos, ciencia, estadística, física y negocios IT. Destaco por mi capacidad para trabajar de manera efectiva tanto en equipos como en proyectos individuales. Mi enfoque se basa en establecer relaciones laborales y comerciales fundamentadas en la ética, la profesionalidad y la durabilidad.",
     "Banner.ActionBtn": "Contacto",
 
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
         "Desde que aprendí a programar estoy en constante aprendizaje. He trabajado en proyectos desde cero, creando interfaces, gestionando datos, bases de datos y gestionando aplicaciones en tecnologías serverless.",
-        "Mis habilidades también incluyen la prueba y corrección de errores, la planificación y diagramación de productos. Tengo experiencia colaborando para repositorios y en diseño de software utilizando MVC (Modelo-vista-controlador).",
+        "Mis habilidades también incluyen la prueba y corrección de errores, la planificación y diagramación de productos. He colaborado en diseño de software utilizando MVC (Modelo-vista-controlador).",
         "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
     ],
 
@@ -80,7 +80,7 @@
     "FeatureProjects.Label": "Proyecto Destacado",
     "FeatureProjects.Projects": [{
             "Title": "Pagina Web - Vegatech UK",
-            "Description": "Pagina principal de mi empresa de desarrollo de software. Cuenta con <span class='underline'>formulario de contacto</span>, <span class='underline'>gestión de base de datos en tiempo real</span? y sistema de <span class='underline'>suscripción</span> a newsletter con tecnología sin servidor proveída por google.",
+            "Description": "Pagina principal de mi empresa de desarrollo de software. Cuenta con <span class='underline'>formulario de contacto</span>, <span class='underline'>gestión de base de datos en tiempo real</span> y sistema de <span class='underline'>suscripción</span> a newsletter con tecnología sin servidor proveída por google.",
             "imgs": [
               "assets/images/vegatech/vegatech1.png",
               "assets/images/vegatech/vegatech2.png",
@@ -126,7 +126,7 @@
         {
           "Title": "Portafolio Profesional",
           "Description": "Repositorio de esta pagina profesional.",
-          "ghLink": "https://github.com/Pretorian29/pretorian-portfolio",          
+          "ghLink": "https://github.com/Pretorian29/my-portfolio",          
           "Technologies": ["Angular", "CSS", "TypeScript", "Bootstrap"]
         },
         {
