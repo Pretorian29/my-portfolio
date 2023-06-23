@@ -125,7 +125,7 @@
         {
             "Title": "Professional Portfolio",
             "Description": "Repository of this professional page.",
-            "ghLink": "https://github.com/Pretorian29/pretorian-portfolio",            
+            "ghLink": "https://github.com/Pretorian29/my-portfolio",            
             "Technologies": ["Angular", "CSS", "TypeScript", "Bootstrap"]
         },
         {
