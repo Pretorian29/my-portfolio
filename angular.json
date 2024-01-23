@@ -140,6 +140,7 @@
         "@schematics/angular:component": {          
         }
     },
-    "cli": {        
+    "cli": {
+      "analytics": "2113930d-0a61-417c-bff4-c747cb61d595"
     }
 }
